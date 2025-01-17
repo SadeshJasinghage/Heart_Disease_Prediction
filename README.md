@@ -14,7 +14,12 @@ This project predicts heart disease using logistic regression. The dataset is fr
 - **Evaluation Metrics:**  
   - Confusion Matrix  
   - Accuracy Score  
-  - McFadden’s Pseudo R²  
+  - McFadden’s Pseudo R²
+
+## Results
+- Accuracy: ~83.5% (varies depending on train/test split)
+- McFadden’s Pseudo R²: ~0.55
+  
 
 ## Files
 - `heart_disease.R` - Main R script for data preprocessing, model training, and evaluation.
@@ -25,4 +30,6 @@ This project predicts heart disease using logistic regression. The dataset is fr
 Run this in R:
 ```r
 install.packages(c("ggplot2", "cowplot", "caTools", "caret"))
+
+
 
