@@ -20,7 +20,7 @@ This project predicts heart disease using logistic regression. The dataset is fr
 - Accuracy: ~83.5% (varies depending on train/test split)
 - McFadden’s Pseudo R²: ~0.55
 
-![Image](images/your-image.png)
+![Image](Rplot.png)
 
 
 ## Files
