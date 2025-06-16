@@ -27,11 +27,7 @@ This project predicts heart disease using logistic regression. The dataset is fr
 - `heart_disease.R` - Main R script for data preprocessing, model training, and evaluation.
 - `heart_disease_test_probabilities.pdf` - Visualization of predicted probabilities.
 
-## How to Run
-### **1️ Install Required Packages**
-Run this in R:
-```r
-install.packages(c("ggplot2", "cowplot", "caTools", "caret"))
+
 
 
 
